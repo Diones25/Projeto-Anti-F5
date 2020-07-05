@@ -1,0 +1,1 @@
+Projeto Anti-5 impede a atualização de um input e o reenvio de dados do input de forma acidental sem consentimento do programador ou usuário, muito útil numa loja virtual em que não se deve reenviar produtos durante atualizações do formulário.
